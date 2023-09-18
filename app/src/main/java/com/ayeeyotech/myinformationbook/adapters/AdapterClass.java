@@ -22,14 +22,23 @@ import com.ayeeyotech.myinformationbook.activities.WondersActivity;
 
 import java.util.ArrayList;
 
+//adapter class waxu isku xirya reyclerviewga
+//designkiisa
+//waxa kasoo muuqnya design data kasoo muuqnysa designka
+//iyo waxa dhacaya hadii lataabo mid kamida ama shaqooyinka dhacaya backround
+//tusaale hadii click lasiiyo cardviewga
+
+
 public class AdapterClass extends RecyclerView.Adapter<AdapterClass.CardViewHolder>{
 
+    //arraylist waxay data type ahaan uqadnysa model classska
     private ArrayList<ModelClass> modelClassList;
 
     //context object waxan awoodayn inaan category katusno users shashada sida sawirka iyo wax uu wato
 
     private Context context;
 
+    //adapter construcotor waxan ku gudbnya data arraylistga iyo context class
 
     public AdapterClass(ArrayList<ModelClass> modelClassList, Context context) {
         this.modelClassList = modelClassList;

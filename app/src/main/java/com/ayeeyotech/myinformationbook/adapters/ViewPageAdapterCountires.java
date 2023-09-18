@@ -17,6 +17,9 @@ public class ViewPageAdapterCountires  extends FragmentStateAdapter {
 
     @NonNull
     @Override
+    //methodkan waa method  waxay go,aminysa
+    //fragments siday ugu kala horeenyan markii swipe left ama iyo swiper right lasmenyo
+    //
     public Fragment createFragment(int position) {
         Fragment fragment;
 

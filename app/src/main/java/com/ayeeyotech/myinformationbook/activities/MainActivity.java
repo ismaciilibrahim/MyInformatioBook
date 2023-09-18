@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
 
+    //arraylist waxay data type ahaan uqadanysa model classka
     private ArrayList<ModelClass> arrayList;
 
     private AdapterClass adapter;
@@ -43,6 +44,8 @@ public class MainActivity extends AppCompatActivity {
         //modelclass image name waa inuu lamid ahaad real image nameka hadii kale manaqonyo mid soo
         //muuqda
 
+        //waxan samyn afar object kuwasoo xogta kasoo qadaya model class kasoo noohaya
+        //image iyo magaca ku dulqormya
         ModelClass modelClass1 = new ModelClass("countries2","The Countries");
         ModelClass modelClass2 = new ModelClass("leader2","The Leaders");
         ModelClass modelClass3 = new ModelClass("museums","The Museums");
@@ -50,10 +53,14 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+        //anago addeegsny hal field oo array ah ayaan waxan galnyn afarti object kuwaso nohaya
+        //sawrdii iyo categoryn nameka
+
         arrayList.add(modelClass1);
         arrayList.add(modelClass2);
         arrayList.add(modelClass3);
         arrayList.add(modelClass4);
+
 
 
         adapter = new AdapterClass(arrayList,this);
