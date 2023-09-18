@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">My Information Book</string>
+
+    <string name="united_king_dom">
+
+        <b>Capital     </b>\t\t\t\t\t\t\t   London \n
+        <b>Largest City</b>\t\t\t\t\t\t\t   London \n
+        <b>National Language</b> \t\t\ \t\t\t\t\t\t\t\t\t\t\t\tEnglish \n
+        <b>Totol Area </b>\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t242,495 km2 \n
+        <b>Currency</b>\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGBP \n\n
+
+        \t\t The United Kingdom of Great Britain and Northern Ireland, commonly known as \n
+        the United Kingdom (UK) or Britain,[k][14] is an island country in Northwestern Europe, off the north-western
+        \ncoast of the continental mainland.[15] It comprises England, Scotland, Wales, and Northern Ireland.[l][16] It includes the
+        \nisland of Great Britain, the north-eastern part of the island of Ireland, and most of the smaller islands within the \n
+        British Isles.[17] Northern Ireland shares a land border with the Republic of Ireland; otherwise, the United Kingdom is \n
+        surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea and the Irish Sea. The total area of \n
+        the United Kingdom is 93,628 square miles (242,495 km2), with an estimated 2023 population of over 68 million people.
+
+\n\n\t\t The United Kingdom has evolved from a series of annexations, unions and separations of constituent countries over several hundred years. The Treaty of Union between the Kingdom of England (which also included Wales) and the Kingdom of Scotland in 1707 resulted in their unification to become the Kingdom of Great Britain. Its union in 1801 with the Kingdom of Ireland created the United Kingdom of Great Britain and Ireland. Most of Ireland seceded from the UK in 1922, leaving the present United Kingdom of Great Britain and Northern Ireland, which formally adopted its name in 1927.[m] The nearby Isle of Man, Guernsey and Jersey are not part of the UK, being Crown Dependencies, but the British government is responsible for their defence and international representation.[18] The UK became the first industrialised country and was the world\'s foremost power for the majority of the 19th and early 20th centuries, particularly during the Pax Britannica between 1815 and 1914.[19][20] The British Empire, at its height in the 1920s, encompassed almost a quarter of the world\'s landmass and population, and was the largest empire in history; however, its involvement in the First World War and the Second World War, the cumulative crisis and the loss of prestige led to the decolonization of most of the British colonies and the eventual end of the Empire.[21][22][23] A part of the core Anglophonic world, British influence can be observed in the language, culture, legal and political systems of many of its former colonies. The UK\'s culture remains globally influential, particularly in literature, music and sport.
+
+
+
+
+    </string>
+    <string name="somalia">
+
+        <b>Capital</b>\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t Muqdisho \n
+        <b>Largest City</b>\t\t\t\t\t\t\t  \t\t\t\t\t\t\t\t\t Muqdisho\n
+        <b>National Language</b> \t\t\ \t\t\t\t\t\t\t\t\t\t\t\ somali \n
+        <b>Totol Area </b>\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 246,201 sq mi \n
+        <b>Currency</b> \t\t\t\t\t\t\t   Shiling \n\n
+
+
+        \t\t\n\n Somalia,[b] officially the Federal Republic of Somalia[12] (Somali: Jamhuuriyadda Federaalka Soomaaliya; Arabic:
+         \t\t\n\n جمهورية الصومال الفيدرالية), is a country in the Horn of Africa. The country is bordered by Ethiopia to the west, Djibouti[13]
+
+
+          \t\t\n\n    In antiquity, Somalia was an important commercial center.[23][24] It is among the most probable locations
+         \t\t\n\n of the ancient Land of Punt.[25][26][27] During the Middle Ages, several powerful Somali empires dominated
+         \t\t\n\n the regional trade, including the Ajuran Sultanate, the Adal Sultanate, and the Sultanate of the Geledi.
+
+   \t\t\n\n developed country group.[47] In 2019, Somalia had the lowest HDI in the world,
+         \t\t\n\n and in the same year, 69% of Somalia\'s population was living below the poverty line.
+         \t\t\n\n [48] As of 2020, Somalia is placed the second highest in the Fragile States Index.[49] It has maintained an informal economy
+         \t\t\n\n mainly based on livestock, remittances from Somalis working abroad, and telecommunications.[50] It is a member of the United Nations,[51] the Arab
+         \t\t\n\n League,[52] African Union,[53] Non-Aligned Movement,[54] and the Organisation of Islamic Cooperation.[55]
+
+
+
+    </string>
+    <string name="italy">
+
+        <b>Capital</b>\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t Muqdisho \n
+        <b>Largest City</b>\t\t\t\t\t\t\t  \t\t\t\t\t\t\t\t\t Muqdisho\n
+        <b>National Language</b> \t\t\ \t\t\t\t\t\t\t\t\t\t\t\ somali \n
+        <b>Totol Area </b>\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 246,201 sq mi \n
+        <b>Currency</b> \t\t\t\t\t\t\t   Shiling \n\n
+
+
+
+        \t\t\n\n Somalia,[b] officially the Federal Republic of Somalia[12] (Somali: Jamhuuriyadda Federaalka Soomaaliya; Arabic:
+         \t\t\n\n جمهورية الصومال الفيدرالية), is a country in the Horn of Africa. The country is bordered by Ethiopia to the west, Djibouti[13]
+
+
+          \t\t\n\n    In antiquity, Somalia was an important commercial center.[23][24] It is among the most probable locations
+         \t\t\n\n of the ancient Land of Punt.[25][26][27] During the Middle Ages, several powerful Somali empires dominated
+         \t\t\n\n the regional trade, including the Ajuran Sultanate, the Adal Sultanate, and the Sultanate of the Geledi.
+
+   \t\t\n\n developed country group.[47] In 2019, Somalia had the lowest HDI in the world,
+         \t\t\n\n and in the same year, 69% of Somalia\'s population was living below the poverty line.
+         \t\t\n\n [48] As of 2020, Somalia is placed the second highest in the Fragile States Index.[49] It has maintained an informal economy
+         \t\t\n\n mainly based on livestock, remittances from Somalis working abroad, and telecommunications.[50] It is a member of the United Nations,[51] the Arab
+         \t\t\n\n League,[52] African Union,[53] Non-Aligned Movement,[54] and the Organisation of Islamic Cooperation.[55]
+
+
+
+    </string>
+
+    <string name="taj_mahal">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos quasi corporis eius
+        \n beatae voluptates debitis iste voluptas provident similique rem, temporibus, natus n
+        possimus. Ducimus fuga ea voluptatibus sapiente ratione laborum.
+    </string>
+</resources>
